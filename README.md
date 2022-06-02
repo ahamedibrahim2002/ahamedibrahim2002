@@ -3,7 +3,6 @@
 I'm Purshuing Computer Science And Engineering
 
 - 💡 I’m currently learning Data Structure And Algorithm
-- ✨ most used line in code `System.out.println("");`
 - 🥰 loved to contibute ... 
 - ⚡  fun fact: I am funny 😅.
 
