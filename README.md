@@ -22,7 +22,7 @@ I'm Purshuing Computer Science And Engineering
 [![Mail Badge](https://img.shields.io/badge/-ahamedibrahim2002-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahamedibrahim2002@gmail.com)
 
 ## My Activity
-[![](https://img.shields.io/badge/-leetcode-29c5f6?style=flat&labelColor=29c5f6&logo=leetcode&logoColor=white)](leetcode-leetcode.com/ahamedibrahim2002/)
+[![](https://img.shields.io/badge/-leetcode-29c5f6?style=flat&labelColor=29c5f6&logo=leetcode&logoColor=white)](leetcode-[leetcode.com/ahamedibrahim2002/](https://leetcode.com/ahamedibrahim2002/))
 
 
 ## Stats
