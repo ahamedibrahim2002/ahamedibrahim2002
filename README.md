@@ -21,6 +21,9 @@ I'm Purshuing Computer Science And Engineering
 [![Discord](https://img.shields.io/badge/-@Cat-7289DA?style=flat&labelColor=7289DA1&logo=discord&logoColor=white&link=dsc.bio/ahamed)](dsc.bio/ahamed) &nbsp;
 [![Mail Badge](https://img.shields.io/badge/-ahamedibrahim2002-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahamedibrahim2002@gmail.com)
 
+## My Activity
+[![](https://img.shields.io/badge/-leetcode-29c5f6?style=flat&labelColor=29c5f6&logo=leetcode&logoColor=white)](leetcode-leetcode.com/ahamedibrahim2002/)
+
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ahamedibrahim2002&show_icons=true&theme=tokyonight" width=65%%>
