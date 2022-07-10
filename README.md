@@ -7,6 +7,3 @@
 ## My Activity
 [![](https://img.shields.io/badge/-leetcode.com/ahamedibrahim2002-black?style=flat&labelColor=lack&logo=leetcode&logoColor=29c5f6)](leetcode)
 
-
-## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ahamedibrahim2002&show_icons=true&theme=tokyonight" width=65%%>
